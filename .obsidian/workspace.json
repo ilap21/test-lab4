@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "40ef27619919b358",
+    "type": "split",
+    "children": [
+      {
+        "id": "31d8af93155cad4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f516e9effbeafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Геометрическая оптика/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9452e99f1abb2428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eaab52392fd414fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "53fa7b5aeb15eb17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b70a89951f50962a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "103875c2d5ea395c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9c5f48de2abcf1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5aa9bb0b6b3a0a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb423f20c15b8358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "099bea1d714c9bdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "715ac426406192e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b55f12021c627f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abd19ac47dbfd3bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "9452e99f1abb2428",
+  "lastOpenFiles": [
+    "4. Геометрическая оптика/README.md",
+    "3. Прохождение света через границу раздела двух сред/README.md",
+    "2. Энергетика световых волн/README.md",
+    "1. Описание световых волн/README.md",
+    "README.md",
+    "index.md",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/favicon.png",
+    "1. Описание световых волн/img1/lib/media/874d8b8e340f75575caa.svg",
+    "index/index 2.md",
+    "index"
+  ]
+}
